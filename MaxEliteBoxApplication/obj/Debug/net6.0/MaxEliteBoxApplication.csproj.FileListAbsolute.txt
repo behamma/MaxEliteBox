@@ -1,0 +1,14 @@
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\bin\Debug\net6.0\MaxEliteBoxApplication.deps.json
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\bin\Debug\net6.0\MaxEliteBoxApplication.runtimeconfig.json
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\bin\Debug\net6.0\MaxEliteBoxApplication.dll
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\bin\Debug\net6.0\MaxEliteBoxApplication.pdb
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.csproj.AssemblyReference.cache
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.AssemblyInfoInputs.cache
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.AssemblyInfo.cs
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.csproj.CoreCompileInputs.cache
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.dll
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\refint\MaxEliteBoxApplication.dll
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.pdb
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\MaxEliteBoxApplication.genruntimeconfig.cache
+C:\Users\Beha\Source\Repos\MaxEliteBox\MaxEliteBoxApplication\obj\Debug\net6.0\ref\MaxEliteBoxApplication.dll
