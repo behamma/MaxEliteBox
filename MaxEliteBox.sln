@@ -5,8 +5,6 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxEliteBox", "MaxEliteBox\MaxEliteBox.csproj", "{BF60F3AB-781C-4EA4-AC70-62A30939EC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxEliteBoxApplication", "MaxEliteBoxApplication\MaxEliteBoxApplication.csproj", "{A0723E58-6355-4828-95DF-036914DCC03D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{BF60F3AB-781C-4EA4-AC70-62A30939EC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF60F3AB-781C-4EA4-AC70-62A30939EC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF60F3AB-781C-4EA4-AC70-62A30939EC8C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A0723E58-6355-4828-95DF-036914DCC03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0723E58-6355-4828-95DF-036914DCC03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0723E58-6355-4828-95DF-036914DCC03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0723E58-6355-4828-95DF-036914DCC03D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

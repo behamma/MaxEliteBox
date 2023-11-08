@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/enescanyilmaz/Projects/MaxEliteBox/MaxEliteBox/MaxEliteBox.csproj": {}
+    "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj": {}
   },
   "projects": {
-    "/Users/enescanyilmaz/Projects/MaxEliteBox/MaxEliteBox/MaxEliteBox.csproj": {
+    "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/enescanyilmaz/Projects/MaxEliteBox/MaxEliteBox/MaxEliteBox.csproj",
+        "projectUniqueName": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
         "projectName": "MaxEliteBox",
-        "projectPath": "/Users/enescanyilmaz/Projects/MaxEliteBox/MaxEliteBox/MaxEliteBox.csproj",
-        "packagesPath": "/Users/enescanyilmaz/.nuget/packages/",
-        "outputPath": "/Users/enescanyilmaz/Projects/MaxEliteBox/MaxEliteBox/obj/",
+        "projectPath": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
+        "packagesPath": "C:\\Users\\Beha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/enescanyilmaz/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Beha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/Users/enescanyilmaz/Desktop/LTunes.Payment.Service.1.0.23": {},
-          "/usr/local/share/dotnet/library-packs": {},
-          "/usr/local/share/dotnet/sdk/7.0.310/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -75,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
