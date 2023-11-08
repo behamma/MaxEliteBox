@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj": {}
+    "C:\\Users\\Beha\\source\\repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj": {
+    "C:\\Users\\Beha\\source\\repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
+        "projectUniqueName": "C:\\Users\\Beha\\source\\repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
         "projectName": "MaxEliteBox",
-        "projectPath": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
+        "projectPath": "C:\\Users\\Beha\\source\\repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
         "packagesPath": "C:\\Users\\Beha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\obj\\",
+        "outputPath": "C:\\Users\\Beha\\source\\repos\\MaxEliteBox\\MaxEliteBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

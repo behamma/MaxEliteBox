@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hZhengyDerhR60DBGYl1AkTYDlhEl4Lkqi4PQDdr8hYN5dPtrhN9YV01ILD76StQZzPR5AUleCe/0M0SNkqC/A==",
+  "dgSpecHash": "/e/pVCHTW1W0LOpzGDM4sg3ug3Ye0rP1LYlO2opGgyMCma9e4bOfv5l1JNtWd/HqExL4UIvviKyj6x59JDEg1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Beha\\Source\\Repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
+  "projectFilePath": "C:\\Users\\Beha\\source\\repos\\MaxEliteBox\\MaxEliteBox\\MaxEliteBox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Beha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Beha\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
